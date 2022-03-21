@@ -7,15 +7,13 @@ academia: true
 
 ## About Me
 
-I'm Dechao Meng (孟德超 in Chinese, dechao.meng@vipl.ict.ac.cn). I received my bachelor degree from **Beihang University** in 2017.
-Now I am a PhD candidate student in the **Institue of Computing Technology, Chinese Academy of Science**,
-under the co-directing of Qingming Huang and Liang Li.
+I'm Dechao Meng (孟德超 in Chinese, dechao.meng@vipl.ict.ac.cn). I received my bachelor degree from **Beihang University** in 2017.  Now I am a PhD candidate student in the **Institue of Computing Technology, Chinese Academy of Science**, under the co-directing of Qingming Huang and Liang Li since 2017. I'm interested in deep learning and computer vision.
+
 
 ### Publications
 
 #### 2022
-1. **Dechao Meng**, Liang Li, Xuejing Liu, Lin Gao, Qingming Huang: Viewpoint Alignment and Discriminative Parts Enhancement in 3D Space for Vehicle ReID. 
-IEEE Transactions on Multimedia, 2022
+1. **Dechao Meng**, Liang Li, Xuejing Liu, Lin Gao, Qingming Huang: Viewpoint Alignment and Discriminative Parts Enhancement in 3D Space for Vehicle ReID. IEEE Transactions on Multimedia, 2022
 
 #### 2020 
 
