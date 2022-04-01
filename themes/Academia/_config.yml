@@ -32,9 +32,11 @@ social_links:
   # fab fa-stack-overflow: /
   # fab fa-linkedin: /
   fab fa-weibo: https://weibo.com/u/3969449060/
+  fab fa-zhihu: https://www.zhihu.com/people/meng-yan-shi/posts
+  fab fa-bilibili: https://space.bilibili.com/117265840?spm_id_from=333.1007.0.0
   # fab fa-weixin: /
   # fab fa-qq: /
-  fas fa-envelope: dechao.meng@vipl.ict.ac.cn/ #E-mail
+  fas fa-envelope: mailto://dechao.meng@vipl.ict.ac.cn #E-mail
   # fas fa-rss: /  #rss
 
 # Additional social_links，额外添加自定义链接，可显示链接名称
@@ -43,7 +45,7 @@ e_social:
   enable: true
 e_social_links:
   Google Scholar: https://scholar.google.com/citations?user=008R8c0AAAAJ || fas fa-graduation-cap
-  ORCID: / || fab fa-orcid
+  # ORCID: / || fab fa-orcid
 
 # CV download link
 cv_dl:
@@ -62,7 +64,7 @@ box_shadow:
 CDN_USE:
   css:
     - /css/index.css
-#    - https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
+    # - https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
     - https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css # fontawesome 5
   js:
     - https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js #/js/third-party/jquery.min.js
