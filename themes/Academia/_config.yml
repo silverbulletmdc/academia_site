@@ -13,7 +13,7 @@ since: 2020
 menu:
   Publications: /#Publications
   About: /#About
-  Blog: https://blog.csdn.net/u013859301
+  Blog: https://www.zhihu.com/people/meng-yan-shi/posts
 
 
 # flink picture will load if avator link calls on error
@@ -40,9 +40,9 @@ social_links:
 # Additional social_links，额外添加自定义链接，可显示链接名称
 # name: url || icon_name
 e_social:
-  enable: false
+  enable: true
 e_social_links:
-  Google Scholar: / || fas fa-graduation-cap
+  Google Scholar: https://scholar.google.com/citations?user=008R8c0AAAAJ || fas fa-graduation-cap
   ORCID: / || fab fa-orcid
 
 # CV download link
